@@ -1,0 +1,6 @@
+# Inference dependencies for Python 3.12; no training packages required.
+torch==2.6.0
+transformers==4.44.2
+tokenizers==0.19.1
+streamlit==1.41.1
+numpy==1.26.4
